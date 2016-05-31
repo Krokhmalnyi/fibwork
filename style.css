@@ -1,0 +1,11 @@
+#output{
+    word-wrap: break-word;
+    margin: 20px 20px;
+}
+#positionFib{
+    padding: 10px;
+    margin-left: 20px;
+}
+#sent{
+    padding: 10px;
+}

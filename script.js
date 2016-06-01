@@ -1,5 +1,5 @@
 var width = window.innerWidth;
-var fibonacci = [0, 1];
+var fibonacci = [1, 1];
 var output = document.getElementById('output');
 output.width = width;
 function isNumber(e){
